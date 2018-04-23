@@ -15,15 +15,13 @@ endif
 
 Plugin 'gmarik/Vundle.vim'
 
+Plugin 'renamer.vim'
+
 "Highlight several words in different colors simultaneously. 
 Plugin 'Mark--Karkat'
 
 " Appearance
 Plugin 'bling/vim-airline'
-"Plugin 'vim-airline/vim-airline-themes'
-" Plugin 'Yggdroot/indentLine'
-
-" Colorscheme
 Plugin 'jordwalke/flatlandia'
 "Plugin 'https://github.com/altercation/vim-colors-solarized'
 
@@ -68,7 +66,7 @@ Plugin 'octol/vim-cpp-enhanced-highlight'
 "Plugin 'hail2u/vim-css3-syntax'
 
 " Python
-Plugin 'klen/python-mode'
+Plugin 'Python-mode-klen'
 
 " Markdown
 Plugin 'godlygeek/tabular'
